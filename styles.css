@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("");
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e0e0e0;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+h1, h2 {
+    color: #f7f3f3;
+}
+
+.pre {
+    background-color: #7e0eaa;
+    padding: 10px;
+}
+
+.label, input, button {
+    margin: 40px auto;
+    display: block;
+    text-align: center;
+    width: 120px;
+}
+
+button {
+    background-color: #ff00ff;
+    color: #eeeeee;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10 px;
+}
+
+button:hover {
+    background-color: #c51818;
+}
+
+#resultado, #categoria {
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 10px;
+}
+.texto{
+    position: absolute;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: purple;
+
+}
+.lola{
+    text-align: center;
+}
+.CalculadoradeIMC{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
